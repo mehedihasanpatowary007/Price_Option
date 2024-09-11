@@ -2,7 +2,7 @@
   "membershipOptions": [
     {
       "id": 1,
-      "image": "./src/assets/Images/basic.jpeg",
+      "image": "https://raw.githubusercontent.com/mehedihasanpatowary007/Price_Option/main/src/assets/Images/basic.jpeg",
       "name": "Basic",
       "price": 30.0,
       "currency": "USD",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "name": "Standard",
-      "image": "./src/assets/Images/standard.jpeg",
+      "image": "https://raw.githubusercontent.com/mehedihasanpatowary007/Price_Option/main/src/assets/Images/standard.jpeg",
       "price": 50.0,
       "currency": "USD",
       "features": [
@@ -28,7 +28,7 @@
     {
       "id": 3,
       "name": "Premium",
-      "image": "./src/assets/Images/premium.jpeg",
+      "image": "https://raw.githubusercontent.com/mehedihasanpatowary007/Price_Option/main/src/assets/Images/premium.jpeg",
       "price": 80.0,
       "currency": "USD",
       "features": [
@@ -43,7 +43,7 @@
     {
       "id": 4,
       "name": "Elite",
-      "image": "./src/assets/Images/elite.png",
+      "image": "https://raw.githubusercontent.com/mehedihasanpatowary007/Price_Option/main/src/assets/Images/elite.png",
       "price": 120.0,
       "currency": "USD",
       "features": [
