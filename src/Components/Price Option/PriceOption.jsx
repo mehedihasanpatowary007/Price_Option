@@ -19,7 +19,7 @@ const PriceOption = ({option}) => {
               {features.map((feature) => {
                 return (
                   <li className="flex items-center gap-2 " key={feature.id}>
-                    <span className="">
+                    <span className="text-gray-600 text-xl">
                       <FaHandPointRight />
                     </span>{" "}
                     {feature},
@@ -29,7 +29,7 @@ const PriceOption = ({option}) => {
             </ul>
           </div>
           <h6 className="text-3xl font-bold flex gap-2 items-center">
-            <span>
+            <span className='text-gray-600'>
               <FaHandHoldingDollar />
             </span>
             ${price}
