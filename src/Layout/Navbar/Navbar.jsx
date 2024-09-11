@@ -5,7 +5,7 @@ import { navItems } from "./NavItems";
 
 const Navbar = () => {
   return (
-    <nav className="bg-red-600 h-[60px] flex items-center">
+    <nav className="bg-red-600 h-[60px] flex items-center sticky top-0 z-40">
       <ul className="md:flex items-center hidden gap-5 text-xl font-semibold text-white uppercase px-10">
         {navItems.map((navItem) => {
           return (

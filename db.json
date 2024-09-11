@@ -1,0 +1,59 @@
+{
+  "membershipOptions": [
+    {
+      "id": 1,
+      "image": "./src/assets/Images/basic.jpeg",
+      "name": "Basic",
+      "price": 30.0,
+      "currency": "USD",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "One free fitness class per month"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "image": "./src/assets/Images/standard.jpeg",
+      "price": 50.0,
+      "currency": "USD",
+      "features": [
+        "Access to gym equipment",
+        "Locker room and shower access",
+        "Unlimited fitness classes",
+        "1 guest pass per month"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "image": "./src/assets/Images/premium.jpeg",
+      "price": 80.0,
+      "currency": "USD",
+      "features": [
+        "Access to gym equipment",
+        "Locker room, shower, and sauna access",
+        "Unlimited fitness classes",
+        "Personal training session once a month",
+        "4 guest passes per month",
+        "Access to VIP lounge"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Elite",
+      "image": "./src/assets/Images/elite.png",
+      "price": 120.0,
+      "currency": "USD",
+      "features": [
+        "24/7 gym access",
+        "Personal locker",
+        "Unlimited fitness classes and personal training",
+        "Unlimited guest passes",
+        "Nutrition consultation",
+        "Access to VIP lounge, sauna, and spa"
+      ]
+    }
+  ]
+}
